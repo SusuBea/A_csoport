@@ -1,0 +1,1 @@
+# 1_nagy_dolgozat_gyakorlas_0205

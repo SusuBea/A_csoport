@@ -1,3 +1,11 @@
+#a. Írj egy függvényt (beker() néven), ami a minta alapján alkalmas három negatív egész szám bekérésére! (2p)
+
+#b. Ha a felhasználó nem jó adatot adott meg, kérd be újra, míg jót nem ad meg! (1p)
+
+#c. A program az adatbekérés után megkeresi,
+#hogy a három beolvasott valós szám négyzete közül melyik a legkisebb,
+#és hányadikként adta meg a felhasználó! A döntés eredményét a program írja ki a konzolra, a minta alapján! (4p)
+
 def beker(i):
     szam = int(input(f"\tAdd meg a(z) {i+1}. negatív számot: "))
     while szam >= 0:
